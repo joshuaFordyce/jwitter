@@ -2,7 +2,8 @@
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
-Time spent: **X** hours spent in total
+Time spent: 10 hours spent in total/ it did tweet I just couldn't figure out why you cant see the actual tweet being typed.
+
 
 ## User Stories
 
